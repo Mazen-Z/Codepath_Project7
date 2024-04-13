@@ -25,7 +25,7 @@ The following **optional** features are implemented:
 
 The following **additional** features are implemented:
 
-* [ ] delpoyed the site at 
+* [x] delpoyed the site at https://codepath-project7.vercel.app/
 
 ## Video Walkthrough
 
